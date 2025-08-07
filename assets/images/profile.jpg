@@ -1,0 +1,16 @@
+I cannot generate actual image files as I can only produce text content. Image files like JPEGs are binary files that require actual image data.
+
+For the profile.jpg file, you would need to:
+
+1. Use an actual photo of Adnan
+2. Resize it to appropriate dimensions (recommended: 400x400px or 500x500px for web use)
+3. Optimize it for web (compress to reasonable file size while maintaining quality)
+4. Save it as profile.jpg in the assets/images/ directory
+
+Alternatively, you could:
+- Use a placeholder service like https://via.placeholder.com/400x400
+- Use a stock photo from sites like Unsplash or Pexels
+- Create an avatar using services like Gravatar
+- Generate an avatar using tools like Avataaars or similar
+
+The HTML file is already set up to display this image with proper styling and responsive behavior once you add the actual image file to the specified path.
